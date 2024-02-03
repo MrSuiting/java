@@ -1,4 +1,4 @@
-package Java_OOP_Laptops;
+package Java_Laptops;
 
 public class Laptop {
 

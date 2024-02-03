@@ -1,4 +1,4 @@
-package Java_OOP_Laptops;
+package Java_Laptops;
 
 import java.util.HashMap;
 import java.util.HashSet;
