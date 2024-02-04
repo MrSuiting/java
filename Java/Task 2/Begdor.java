@@ -1,5 +1,3 @@
-package TASK2;
-
 public class Begdor {
     private String name;
     private int distance;

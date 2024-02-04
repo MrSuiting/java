@@ -1,5 +1,3 @@
-package TASK2;
-
 public class Wall {
     private String name;
     private double height;
@@ -19,6 +17,6 @@ public class Wall {
 
     @Override
     public String toString() {
-        return "Стенка (" + name + ") высотой: " + height +"м.";
+        return "Стенка " + name + " высотой: " + height +"м.";
     }
 }

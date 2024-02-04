@@ -1,5 +1,3 @@
-package TASK2;
-
 public class Robot {
     private String name;
     private double maxHeight;
